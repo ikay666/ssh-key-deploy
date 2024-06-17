@@ -31,6 +31,6 @@
    git clone https://github.com/your-username/ssh-key-manager.git
    cd ssh-key-manager
 
-## 博客
+## 详细使用教程
 
-[我的博客：https://www.cnblogs.com/ikay](https://www.cnblogs.com/ikay)
+[我的博客：https://www.cnblogs.com/ikay/p/18253224](https://www.cnblogs.com/ikay/p/18253224)
